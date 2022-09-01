@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background: #ffffff81;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#portada{
+    font-size: 30px;
+}
+
+#ilustracion{
+    width: 40%;
+}
+
+section button{
+    padding: 12px 30px;
+    background: #4dc0ed81;
+    color: #000;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+section button:hover{
+    background: transparent;
+    border: 2px solid #01020281;
+    color: #000;
+}
